@@ -1,3 +1,2 @@
 # clear-vision+
-download as zip and extract it
-and then put this in your thmes folder
+download the css file in the release page or download source code as a zip file
